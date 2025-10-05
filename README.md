@@ -35,14 +35,6 @@ Exemplos:
    Linux/Mac: ./nome_executavel
    Windows: nome_executavel.exe
 
-Observações:
-- Substitua nome_do_arquivo.c pelo arquivo real do exercício.
-- Substitua nome_executavel pelo nome que deseja dar ao programa compilado.
-- Alguns programas podem ter múltiplos arquivos .c ou .h. Compile todos juntos se necessário:
 
-   gcc arquivo1.c arquivo2.c -o programa
 
-Compactação:
-- Coloque todos os exercícios e este arquivo instrucoes.txt dentro de uma pasta principal com seu nome e matrícula (ex: Nono_123456).
-- Compacte a pasta em .zip.
-- Envie o arquivo .zip conforme solicitado.
+
